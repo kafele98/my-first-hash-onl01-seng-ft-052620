@@ -15,7 +15,6 @@ def retrieval
                  }
 end
 
-  hash["oil paintings"]
 
 def adding
   shipping_manifest = {
